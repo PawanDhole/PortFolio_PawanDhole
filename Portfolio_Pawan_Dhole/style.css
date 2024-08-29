@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Existing styles */
+
+.project {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.project h3 {
+    margin-top: 0;
+}
+
+.project ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.project a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
+
+/* Existing styles */
+
+.project {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.project h3 {
+    margin-top: 0;
+}
+
+.project ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.project a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
